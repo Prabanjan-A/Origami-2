@@ -1,0 +1,21 @@
+h1{
+    color:rgb(127, 255, 255);
+    border: solid;
+}
+
+*{
+    border: solid;
+    color: black;
+}
+
+.McLaren{
+    background-color: cadetblue;
+}
+
+.Nissen GTR{
+    border:solid;
+}
+
+body{
+    background-color: rgb(189, 34, 86);
+}
